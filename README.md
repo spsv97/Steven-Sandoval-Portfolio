@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Steven Sandoval</h1>
+<h1 align="center">Steven Sandoval</h1>
 
 <p align="center">
   <b>Mechatronic Engineer | Cybersecurity & Risk Management (In Progress)</b><br>
